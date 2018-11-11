@@ -48,7 +48,7 @@
 						<a href="<?php echo base_url('home/edit_billing_detail');?>" class="btn btn-outline-light btn-lg">Return</a>
 					</div>
 					<div class="btn-group-vertical" id="buttondiv2">
-						<?php echo form_submit(['name'=>'Submit', 'value'=>'Confirm Transfer', 'class'=>'btn btn-outline-light btn-lg']); ?>
+						<?php echo form_submit(['name'=>'Submit', 'value'=>'Confirm Payment', 'class'=>'btn btn-outline-light btn-lg']); ?>
 					</div>
 				</form>
 			</div>
